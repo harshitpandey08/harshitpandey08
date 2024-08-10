@@ -1,23 +1,15 @@
- <h2 align="left">Hi 👋! My name is Harshit Pandey and I'm a Full-Stack Web Developer, from India.</h2>
+<h2 align="left">Hi 👋! My name is Harshit Pandey and I'm a Full-Stack Web Developer from India.</h2>
 
-<p align="left">As a full-stack web developer, I specialize in transforming ideas into dynamic, user-friendly solutions. With hands-on expertise in HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, and MongoDB, I’m dedicated to staying ahead in the ever-evolving tech landscape..</p>
+<p align="left">As a dedicated full-stack web developer, I specialize in transforming ideas into dynamic, user-friendly solutions. With hands-on expertise in HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, and MongoDB, I’m committed to staying ahead in the ever-evolving tech landscape.</p>
 
-- 🚀 **Passionate Learner:** I'm always excited to dive into new languages and frameworks like **Javascript** and **React⚛**.
-  
+- 🚀 **Passionate Learner:** Always excited to dive into new languages and frameworks like **JavaScript** and **React⚛**.
 - 🔧 **Current Project:** Building an innovative **Fullstack App**.
-  
 - 🤝 **Looking to Collaborate:** Open to working on **Back-End Projects** that challenge and inspire.
-  
 - ❤️ **What I Love:** Crafting **exciting projects** that push creative boundaries.
-  
 - 💬 **Expertise:** HTML, CSS, JavaScript, React JS, Node JS, Data Structures, and Algorithms.
-  
 - 📫 **Let's Connect:** [harshitpandey0810@gmail.com](mailto:harshitpandey0810@gmail.com)
 
-
-## My Tech Stack 
-<!-- <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35" height="30px"/> -->
-
+## My Tech Stack
 <p align="left"> 
  <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -42,8 +34,8 @@
  </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitpandey08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitpandey08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitpandey08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitpandey08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ## My Recent Projects  
@@ -53,21 +45,18 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Company-s-Budget-Allocation&show_icons=true&theme=great-gatsby" alt="Company's Budget Allocation">
 </div>
 
-
 ## 🤝 Connect with me  
-<div align="center" >
+<div align="center">
  <a href="https://www.linkedin.com/in/harshitpandey0810/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/harshitpandey08" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- <a href="https://www.instagram.com/harshitp08/" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: 5px;"/>
+   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
  </a>
- 
-<h3 align="center"> DON'T FORGET TO ⭐ THIS REPOSITORY !!!
-</h3> 
-<hr/>
+ <a href="https://github.com/harshitpandey08" target="_blank">
+   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://www.instagram.com/harshitp08/" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+ </a>
+</div>
 
-<!-- hand waveing img -> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> --> 
+<h3 align="center">DON'T FORGET TO ⭐ THIS REPOSITORY !!!</h3>
+<hr/>
