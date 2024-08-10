@@ -45,6 +45,3 @@
 
 <h3 align="center">DON'T FORGET TO ⭐ THIS REPOSITORY !!!</h3>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/harshitpandey08/harshitpandey08/output/snake.svg" alt="Snake animation" />
