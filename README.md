@@ -46,15 +46,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitpandey08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
 ## My Recent Projects  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Medimate&show_icons=true&theme=great-gatsby"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Zerodha-clone&show_icons=true&theme=great-gatsby"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Company-s-Budget-Allocation&show_icons=true&theme=great-gatsby">  
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Medimate&show_icons=true&theme=great-gatsby" alt="Medimate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Zerodha-clone&show_icons=true&theme=great-gatsby" alt="Zerodha Clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Company-s-Budget-Allocation&show_icons=true&theme=great-gatsby" alt="Company's Budget Allocation">
 </div>
-
-
 
 
 ## 🤝 Connect with me  
