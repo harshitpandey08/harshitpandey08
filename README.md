@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Harshit Pandey and I'm a Full-Stack Web Developer from India.</h2>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshit+Pandey!;" />
+</h1>
 
 <p align="left">As a dedicated full-stack web developer, I specialize in transforming ideas into dynamic, user-friendly solutions. With hands-on expertise in **HTML, CSS, JavaScript, ReactJS, Node.js, Express.js,** and **MongoDB**, I’m committed to staying ahead in the ever-evolving tech landscape.</p>
 
@@ -10,28 +13,10 @@
 - 📫 **Let's Connect:** [harshitpandey0810@gmail.com](mailto:harshitpandey0810@gmail.com)
 
 ## My Tech Stack
-<p align="left"> 
- <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
- <img alt="Selenium" src="https://img.shields.io/badge/Selenium-339933?style=for-the-badge&logo=selenium&logoColor=white" />
- <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
- <img alt="Rest-Assured" src="https://img.shields.io/badge/RestAssured-20232A?style=for-the-badge&logo=rest&logoColor=white" />
- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
- <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
- <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
- <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
- <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
- </p>
+<div>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,nextjs,mysql" /><br>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitpandey08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -59,4 +44,7 @@
 </div>
 
 <h3 align="center">DON'T FORGET TO ⭐ THIS REPOSITORY !!!</h3>
-<hr/>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/harshitpandey08/harshitpandey08/output/snake.svg" alt="Snake animation" />
