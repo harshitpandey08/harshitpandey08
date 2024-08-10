@@ -48,6 +48,12 @@
 
 
 ## My Recent Projects  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Medimate&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Zerodha-clone&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitpandey08&repo=Company-s-Budget-Allocation&show_icons=true&theme=great-gatsby">  
+</div>
+
 
 
 
