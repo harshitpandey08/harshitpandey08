@@ -2,11 +2,16 @@
 
 <p align="left">Welcome to my profile! As a dedicated full-stack web developer, I bring expertise in HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, and MongoDB. I thrive on staying ahead in this dynamic field, embracing Git and agile methodologies to deliver robust solutions. Collaboration is at the heart of my process, where I enjoy crafting innovative solutions with fellow developers. My passion lies in creating seamless user experiences, and I'm eager to contribute to challenging projects that push boundaries.</p>
 
-- 🚀 **Passionate Learner:** I'm always excited to dive into new languages and frameworks like **Javascript** and **React⚛**. 
+- 🚀 **Passionate Learner:** I'm always excited to dive into new languages and frameworks like **Javascript** and **React⚛**.
+  
 - 🔧 **Current Project:** Building an innovative **Fullstack App**.
+  
 - 🤝 **Looking to Collaborate:** Open to working on **Back-End Projects** that challenge and inspire.
+  
 - ❤️ **What I Love:** Crafting **exciting projects** that push creative boundaries.
+  
 - 💬 **Expertise:** HTML, CSS, JavaScript, React JS, Node JS, Data Structures, and Algorithms.
+  
 - 📫 **Let's Connect:** [harshitpandey0810@gmail.com](mailto:harshitpandey0810@gmail.com)
 
 
