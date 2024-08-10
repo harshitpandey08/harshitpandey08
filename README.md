@@ -1,18 +1,14 @@
 ## Hi there 👋
 
-<p align="left">I'm a skilled full-stack web developer with experience in HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, and MongoDB. I stay current with industry trends and am familiar with Git and agile development. Collaboration and communication are important to me ✨, and I enjoy finding creative solutions with other developers. My goal is to create exceptional user experiences and I'm eager to contribute my skills to challenging projects</p>
+<p align="left">Welcome to my profile! As a dedicated full-stack web developer, I bring expertise in HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, and MongoDB. I thrive on staying ahead in this dynamic field, embracing Git and agile methodologies to deliver robust solutions. Collaboration is at the heart of my process, where I enjoy crafting innovative solutions with fellow developers. My passion lies in creating seamless user experiences, and I'm eager to contribute to challenging projects that push boundaries.</p>
 
-<!-- <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥.</p> -->
+- 🚀 **Passionate Learner:** I'm always excited to dive into new languages and frameworks like **Javascript** and **React⚛**. 
+- 🔧 **Current Project:** Building an innovative **Fullstack App**.
+- 🤝 **Looking to Collaborate:** Open to working on **Back-End Projects** that challenge and inspire.
+- ❤️ **What I Love:** Crafting **exciting projects** that push creative boundaries.
+- 💬 **Expertise:** HTML, CSS, JavaScript, React JS, Node JS, Data Structures, and Algorithms.
+- 📫 **Let's Connect:** [harshitpandey0810@gmail.com](mailto:harshitpandey0810@gmail.com)
 
-- I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-
-
-- 🔭 I’m currently working on a Fullstack app.<br/>
-
-- 👯 I’m looking to collaborate on **Back-End Projects**
--  I love❤ to make **exciting projects**. <br/>
-- 💬 Expertise: HTML, CSS, JavaScript, React JS, Node JS, Data Structure, and Algorithm
-- 📫 Contact email: harshitpandey0810@gmail.com
 
 ## My Tech Stack 
 <!-- <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35" height="30px"/> -->
