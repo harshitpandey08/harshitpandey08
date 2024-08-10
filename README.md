@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Harshit Pandey and I'm a Full-Stack Web Developer from India.</h2>
 
-<p align="left">As a dedicated full-stack web developer, I specialize in transforming ideas into dynamic, user-friendly solutions. With hands-on expertise in HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, and MongoDB, I’m committed to staying ahead in the ever-evolving tech landscape.</p>
+<p align="left">As a dedicated full-stack web developer, I specialize in transforming ideas into dynamic, user-friendly solutions. With hands-on expertise in **HTML, CSS, JavaScript, ReactJS, Node.js, Express.js,** and **MongoDB**, I’m committed to staying ahead in the ever-evolving tech landscape.</p>
 
 - 🚀 **Passionate Learner:** Always excited to dive into new languages and frameworks like **JavaScript** and **React⚛**.
 - 🔧 **Current Project:** Building an innovative **Fullstack App**.
