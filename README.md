@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshit+Pandey!;" />
 </h1>
 
-<p>As a dedicated full-stack web developer, I specialize in transforming ideas into dynamic, user-friendly solutions. With hands-on expertise in **HTML, CSS, JavaScript, ReactJS, Node.js, Express.js,** and **MongoDB**, I’m committed to staying ahead in the ever-evolving tech landscape.</p>
+<p>As a dedicated full-stack web developer, I specialize in transforming ideas into dynamic, user-friendly solutions. With hands-on expertise in <strong>HTML, CSS, JavaScript, ReactJS, Node.js, Express.js,</strong> and <strong>MongoDB</strong>, I’m committed to staying ahead in the ever-evolving tech landscape.</p>
 
 <div align="center">
 
